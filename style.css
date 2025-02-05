@@ -1,0 +1,80 @@
+body {
+  background-color: black;
+  height:700px;
+  width:502px;
+}
+
+h1 {
+  font-size: 60px;
+  
+}
+.introduction{
+  background-image: url('backgroundimg5.jpg');
+  background-size: 500px 400px;
+  
+}
+
+.SignUp {
+    background-color: white;
+    color: #5c27a6;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.prize{
+    border-radius: 75px;
+    text-align:center;
+    background: rgba(215, 245, 253, 0.1);
+    border: none;
+    margin-left: 30px;
+
+}
+.prize2{
+    border-radius: 75px;
+    text-align:center;
+    background: rgba(215, 245, 253, 0.3);
+    border: none; 
+}
+
+
+.title{
+    color: #023e4f;
+    font-style: italic;
+}
+
+
+nav {
+      margin: 0;
+      padding: 0.6rem 0;
+      text-align: right;
+      background-color: #f4edfd;
+    }
+    
+nav a {
+      color:#5c27a6 ;
+      text-decoration: none;
+      margin: 0.5rem;
+      
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+.intro{
+ color: white
+ font-family: fantasy;
+ margin-left: 80px;
+ margin-right: 80px;
+  text-align: center;
+    justify-content : center
+
+}
+
+.title{
+  display: flex;
+  text-align: center;
+    justify-content : center
+  
+}
